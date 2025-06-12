@@ -1,6 +1,6 @@
 # WebSift Scraper 🕸️🔍
 
-![WebSift Logo](https://via.placeholder.com/150?text=WebSift) <!-- Replace with actual logo if available -->
+![WebSift Logo](https://github.com/Argh94/WebSift/blob/main/img.jpg) <!-- Replace with actual logo if available -->
 
 A powerful and user-friendly Bash script designed to scrape emails, phone numbers, and social media links from websites. Built for Termux and Linux environments, WebSift Scraper is perfect for researchers, marketers, and developers who need to extract data efficiently.
 
